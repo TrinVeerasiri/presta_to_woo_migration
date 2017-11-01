@@ -5,7 +5,9 @@ The product migration:
 
 https://github.com/TrinVeerasiri/presta_to_woo_migration/blob/master/product.ipynb
 
+
 The customer migration:
+
 I separate into 2 part
 - Gathering customer information
   https://github.com/TrinVeerasiri/presta_to_woo_migration/blob/master/gathering_customer_information.ipynb
