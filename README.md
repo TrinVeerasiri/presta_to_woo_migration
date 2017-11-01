@@ -10,6 +10,9 @@ The customer migration:
 
 I separate into 2 part
 - Gathering customer information
+
   https://github.com/TrinVeerasiri/presta_to_woo_migration/blob/master/gathering_customer_information.ipynb
+  
 - Generate wp_users and wp_usermeta
+
   https://github.com/TrinVeerasiri/presta_to_woo_migration/blob/master/generate_wp_users_and_wp_usermeta.ipynb
