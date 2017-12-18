@@ -23,6 +23,9 @@ This is the code for translation of products. In Prestashop, we have products in
 Our process is to create a English description product in "wp_posts" and "wp_postmeta" then match the "trid" of Thai and English product in "wp_icl_translations".
 
 There are 3 parts.
+
 3.1) Creating the "wp_posts" for English description products.
+
 3.2) Creating the "wp_postmeta" for English description products.
+
 3.3) Matching the "trid" of Thai and English product in the "wp_icl_translations"
