@@ -24,8 +24,8 @@ Our process is to create a English description product in "wp_posts" and "wp_pos
 
 There are 3 parts.
 
-3.1) Creating the "wp_posts" for English description products.
+- Creating the "wp_posts" for English description products.
 
-3.2) Creating the "wp_postmeta" for English description products.
+- Creating the "wp_postmeta" for English description products.
 
-3.3) Matching the "trid" of Thai and English product in the "wp_icl_translations"
+- Matching the "trid" of Thai and English product in the "wp_icl_translations"
