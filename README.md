@@ -25,3 +25,7 @@ This is the code for translation of products. In Prestashop, we have products in
 Our process is to create a English description product in "wp_posts" and "wp_postmeta" then match the "trid" of Thai and English product in "wp_icl_translations".
 
 https://github.com/TrinVeerasiri/presta_to_woo_migration/blob/master/translation.ipynb
+
+## Add users nicename
+After the web opening, admin tells the user that they have to change the password because we don't migrate them from Prestashop. The problem is old users don't have a user nicename, so they can't change their password. We solve this problem by copy the information of "user_login" column to fill nan values in "user_nicename" column of wp_post_meta.
+https://github.com/TrinVeerasiri/presta_to_woo_migration/blob/master/add_user_nicename.ipynb
